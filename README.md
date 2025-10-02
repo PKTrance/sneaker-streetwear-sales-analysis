@@ -39,7 +39,25 @@ The dataset is licensed under **Apache 2.0** and sourced from Kaggle (simulated 
 ---
 
 ## How to run
-Clone the repo:
+1. Clone the repo:
    ```bash
    git clone https://github.com/PKTrance/sneaker-streetwear-sales-analysis.git
    cd sneaker-streetwear-sales-analysis
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. Open the notebook:
+   ```bash
+   jupyter notebook notebook.ipynb
+
+## Notes & reproducibility
+
+The notebook is organized into: Introduction, Data Overview, EDA (product/category/country/payment), Key Insights, and Forecasting.
+
+The forecast uses a simple linear regression as a demonstration of predictive thinking given limited history. 
+
+## Contact
+
+Patrick Tran
+`https://www.linkedin.com/in/patricktran22/`
+patricktran@g.ucla.edu
