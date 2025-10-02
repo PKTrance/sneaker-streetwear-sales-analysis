@@ -58,6 +58,4 @@ The forecast uses a simple linear regression as a demonstration of predictive th
 
 ## Contact
 
-Patrick Tran
-`https://www.linkedin.com/in/patricktran22/`
-patricktran@g.ucla.edu
+Patrick Tran — `https://www.linkedin.com/in/patricktran22/` — patricktran@g.ucla.edu
