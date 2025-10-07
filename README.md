@@ -1,6 +1,6 @@
 # Sales Analytics: Global Sneaker & Streetwear Market
 
-**Short description:**  
+## Project Overview  
 Exploratory analysis and a simple next-month sales forecast on a simulated e-commerce dataset covering January–August 2022. The project highlights top products, product type distribution, payment preferences, country performance, and a one-step linear forecast.
 
 ---
@@ -48,9 +48,9 @@ The dataset is licensed under **Apache 2.0** and sourced from Kaggle (simulated 
    pip install -r requirements.txt
 3. Open the notebook:
    ```bash
-   jupyter notebook notebook.ipynb
+   jupyter notebook sneaker-streetwear-sales-analysis.ipynb
 
-## Notes & reproducibility
+## Notes
 
 The notebook is organized into: Introduction, Data Overview, EDA (product/category/country/payment), Key Insights, and Forecasting.
 
